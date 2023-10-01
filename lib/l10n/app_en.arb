@@ -1,0 +1,32 @@
+{
+  "@days": {
+    "description": "The number of days"
+  },
+  "@language": {
+    "description": "The current language"
+  },
+  "@months": {
+    "description": "The number of months"
+  },
+  "@years": {
+    "description": "The number of years"
+  },
+  "add": "Add",
+  "anniversary_of_sarah": "Sarah's birthday",
+  "date": "Date",
+  "day": "Day",
+  "days": "days",
+  "delete": "Delete",
+  "edit": "Edit",
+  "enter_name": "Please enter a title",
+  "enter_valid": "Please enter a valid {period}.",
+  "happy_anniversary": "Happy anniversary",
+  "language": "English",
+  "month": "Month",
+  "months": "months",
+  "next_anniversary": "Next anniversary in",
+  "prepare_yourself": "Prepare yourself for tomorrow",
+  "title": "Title",
+  "year": "Year",
+  "years": "years"
+}

@@ -1,0 +1,20 @@
+{
+  "add": "Ajouter",
+  "anniversary_of_sarah": "Anniversaire de Sarah",
+  "date": "Date",
+  "day": "Jour",
+  "days": "jours",
+  "delete": "Supprimer",
+  "edit": "Modifier",
+  "enter_name": "Veuillez entrer un titre",
+  "enter_valid": "Veuillez entrer un {period} valide.",
+  "happy_anniversary": "Joyeux anniversaire",
+  "language": "Français",
+  "month": "Mois",
+  "months": "mois",
+  "next_anniversary": "Prochain anniversaire dans",
+  "prepare_yourself": "Préparez-vous pour demain",
+  "title": "Titre",
+  "year": "Année",
+  "years": "ans"
+}
